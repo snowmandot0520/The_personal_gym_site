@@ -1,0 +1,104 @@
+a.link{color: #b69853;}
+a.link:hover{text-decoration: none;}
+
+
+
+.main-info{color:#2E333A;display: flex;font-size: 1rem;background: #f6f3ef;padding:60px 30px 30px 30px;margin:0 0 0 -20px;font-family: 'League Spartan', sans-serif;border-bottom: 1px solid #d6d0c7;margin-bottom: 2rem;}
+.main-info hr{
+    margin-top: 30px;
+}
+.main-info p{font-size: 1rem;}
+/*.main-info .main-info-image{width: 30%;}*/
+.main-info  img{max-width: 100%;}
+
+.main-info .main-info-detail{width: 60%;color: #211F1F;padding-right: 5%;}
+.main-info .video-tutorial{width: 40%;}
+.main-info .main-info-detail h1{color: #2E333A;}
+.main-info h1{font-size: 5.5rem;margin: 0 0 20px 0; font-weight:300;font-family: 'Sura', serif;line-height: 1;}
+.main-info h2{color: #2E333A;font-size: 1.5rem;}
+
+.upgrade-to-pro{display: flex;margin-top:45px;}
+.upgrade-to-pro .upgrade-image{width: 50%;}
+.upgrade-to-pro .upgrade-text{width: 50%;margin-left: 30px;}
+
+
+.top-wrapper{display: flex;margin-right: 20px;font-family: 'League Spartan', sans-serif;font-size: 16px;line-height: 1.3;}
+.top-wrapper td,.top-wrapper p{font-size: 1rem;}
+
+.get-started-info{width: 70%;}
+.get-started-info .dashicons-no{color: #DD5C2A;}
+.get-started-info .dashicons-yes{color: #46b450;}
+
+.das-faqs{width: 30%;margin-left:30px;}
+.das-wrap img{width: 100%;border: 1px solid #eee;padding: 5px;}
+
+.pull-right{
+    float: right;
+}
+.btn{
+    display: inline-block;
+    padding: .65rem 1.5rem .5rem 1.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    margin-right: 10px;
+    border: 2px solid;
+    color: #fff;;
+}
+
+.btn-primary {
+    background: #b69853;
+    color: #fff;
+    border-color: transparent;
+    border: none;
+}
+
+.btn-primary:focus, 
+.btn-primary:hover {
+    background: #676E8B;
+    color: #fff;
+}
+.btn-success{
+    background: #DD5C2A;
+    color: #fff;
+    border: none;
+}
+
+.btn-success:focus, 
+.btn-success:hover {
+    background: #676E8B;
+    color: #fff;
+}
+
+
+
+@media only screen and (max-width: 700px) {
+    .main-info{
+        margin:0 0 0 -10px;
+        padding: 40px 20px 20px 20px;
+        flex-wrap: wrap;   
+    }
+    .main-info .main-info-detail{
+        width: 100%;
+        padding: 0;
+    }
+    .main-info .main-info-detail h1{
+        font-size: 2rem;
+    }
+    .top-wrapper{
+        flex-wrap: wrap;
+    }
+    .get-started-info{
+        width: 100%;
+    }
+    .das-faqs{
+        width: 100%;margin:0;
+    }
+    .btn{
+        display: block;
+        margin-right: 0;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+}

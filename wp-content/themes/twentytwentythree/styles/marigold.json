@@ -153,6 +153,7 @@
 				"elements": {
 					"link": {
 						"typography": {
+							"fontSize": "var(--wp--preset--font-size--large)",
 							"textDecoration": "none"
 						},
 						"color": {
@@ -167,7 +168,6 @@
 					}
 				},
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--large)",
 					"fontWeight": "600"
 				}
 			},
@@ -203,8 +203,14 @@
 				}
 			},
 			"core/site-title": {
+				"elements": {
+					"link": {
+						"typography": {
+							"fontSize": "var(--wp--preset--font-size--normal)"
+						}
+					}
+				},
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--normal)",
 					"textTransform": "lowercase"
 				}
 			}
