@@ -1,0 +1,866 @@
+# Copyright (C) 2023 graphthemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Glossy Blog 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/glossy-blog\n"
+"POT-Creation-Date: 2023-07-17 15:33:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:29
+msgid "WordPress"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+
+#: footer.php:35
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:35 inc/getting-started/template-parts/main-info.php:3
+msgid "Glossy Blog"
+msgstr ""
+
+#: footer.php:35
+msgid "GraphThemes"
+msgstr ""
+
+#: functions.php:90
+msgid "Primary"
+msgstr ""
+
+#: functions.php:167
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:169
+msgid "Add widgets here."
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/blocks/colors/color-dark/color-dark.php:13
+msgid "Dark Color"
+msgstr ""
+
+#: inc/blocks/colors/color-grey/color-grey.php:13
+msgid "Grey Color"
+msgstr ""
+
+#: inc/blocks/colors/color-light/color-light.php:13
+msgid "Light Color"
+msgstr ""
+
+#: inc/blocks/colors/color-primary/color-primary.php:13
+msgid "Primary Color"
+msgstr ""
+
+#: inc/blocks/colors/color-secondary/color-secondary.php:13
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/blocks/colors/color-site-title/color-site-title.php:13
+msgid "Site Identity Color"
+msgstr ""
+
+#: inc/blocks/colors/colors.php:11
+msgid "Color Options"
+msgstr ""
+
+#: inc/blocks/customizer-info/premium-features.php:13
+msgid "Premium Version"
+msgstr ""
+
+#: inc/blocks/customizer-info/premium-features.php:24
+#: inc/blocks/customizer-info/upgrade-to-pro.php:8
+#: inc/getting-started/template-parts/main-info.php:15
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/blocks/customizer-info/theme-info.php:8
+msgid "❂ Theme Info"
+msgstr ""
+
+#: inc/blocks/customizer-info/theme-info.php:20
+msgid "Theme Details"
+msgstr ""
+
+#: inc/blocks/customizer-info/theme-info.php:20
+#: inc/blocks/customizer-info/theme-info.php:22
+#: inc/blocks/customizer-info/theme-info.php:23
+#: inc/blocks/customizer-info/theme-info.php:24
+msgid "Click Here"
+msgstr ""
+
+#: inc/blocks/customizer-info/theme-info.php:22
+msgid "How to use"
+msgstr ""
+
+#: inc/blocks/customizer-info/theme-info.php:23
+msgid "View Demo"
+msgstr ""
+
+#: inc/blocks/customizer-info/theme-info.php:24
+msgid "Support Forum"
+msgstr ""
+
+#: inc/blocks/customizer-info/upgrade-to-pro.php:6
+msgid "★ Glossy Blog Pro "
+msgstr ""
+
+#: inc/blocks/font-customization/font-customization.php:8
+msgid "Font Options"
+msgstr ""
+
+#: inc/blocks/font-customization/font-size/font-size.php:15
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/blocks/font-customization/font-weight/font-weight.php:15
+msgid "Body Font Weight"
+msgstr ""
+
+#: inc/blocks/font-customization/line-height/line-height.php:15
+msgid "Line Height"
+msgstr ""
+
+#: inc/blocks/font-customization/logo-size/logo-size.php:16
+msgid "Logo Size"
+msgstr ""
+
+#: inc/blocks/font-customization/site-identity-font-size/site-identity-font-size.php:15
+msgid "Site Identity Size"
+msgstr ""
+
+#: inc/blocks/font-family/default-font-family.php:5
+msgid "Sora"
+msgstr ""
+
+#: inc/blocks/font-family/default-font-family.php:9
+msgid "Manjari"
+msgstr ""
+
+#: inc/blocks/font-family/default-font-family.php:13
+msgid "Manrope"
+msgstr ""
+
+#: inc/blocks/font-family/main/main-font-family.php:14
+msgid "Primary Font"
+msgstr ""
+
+#: inc/blocks/font-family/secondary/secondary-font-family.php:14
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/blocks/font-family/site-identity/site-identity-font-family.php:14
+msgid "Site Title/Tagline Font"
+msgstr ""
+
+#: inc/blocks/footer-copyright/footer-copyright.php:10
+#: inc/getting-started/template-parts/free-vs-pro.php:8
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/blocks/footer-copyright/footer-copyright.php:20
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/blocks/general/breadcrumbs/breadcrumbs.php:12
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/blocks/general/container-width/container-width.php:13
+msgid "Container Width"
+msgstr ""
+
+#: inc/blocks/general/general.php:7
+msgid "General Options"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:5
+#: inc/blocks/includes/template-social-share.php:2
+#: inc/blocks/post-detail/share/social-share.php:37
+#: inc/blocks/post-snippet/share/social-share.php:37
+msgid "Facebook"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:6
+msgid "Instagram"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:7
+msgid "Youtube"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:8
+#: inc/blocks/post-detail/share/social-share.php:40
+#: inc/blocks/post-snippet/share/social-share.php:40
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:9
+#: inc/blocks/includes/template-social-share.php:3
+#: inc/blocks/post-detail/share/social-share.php:38
+#: inc/blocks/post-snippet/share/social-share.php:38
+msgid "Twitter"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:10
+#: inc/blocks/includes/template-social-share.php:4
+#: inc/blocks/post-detail/share/social-share.php:39
+#: inc/blocks/post-snippet/share/social-share.php:39
+msgid "Pinterest"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:11
+msgid "TikTok"
+msgstr ""
+
+#: inc/blocks/general/social-links/social-links.php:22
+msgid "Social Links:"
+msgstr ""
+
+#: inc/blocks/general/sticky-menu/sticky-menu.php:12
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: inc/blocks/includes/template-social-share.php:5
+msgid "Linkedin"
+msgstr ""
+
+#: inc/blocks/includes/template-social-share.php:21
+msgid "Share"
+msgstr ""
+
+#: inc/blocks/post-detail/author/author.php:12
+#: inc/blocks/post-snippet/author/author.php:12
+msgid "Show/Hide Author"
+msgstr ""
+
+#: inc/blocks/post-detail/author-block/author-block.php:12
+msgid "Show/Hide Author Block"
+msgstr ""
+
+#: inc/blocks/post-detail/category/category.php:12
+#: inc/blocks/post-snippet/category/category.php:12
+msgid "Show/Hide Categories"
+msgstr ""
+
+#: inc/blocks/post-detail/comment/comment.php:12
+#: inc/blocks/post-snippet/comment/comment.php:12
+msgid "Show/Hide Number of Comments"
+msgstr ""
+
+#: inc/blocks/post-detail/date/date.php:12
+#: inc/blocks/post-snippet/date/date.php:12
+msgid "Show/Hide Date"
+msgstr ""
+
+#: inc/blocks/post-detail/default-post-detail.php:30
+#: inc/blocks/post-snippet/default-post-snippet.php:30
+msgid "large"
+msgstr ""
+
+#: inc/blocks/post-detail/default-post-detail.php:60
+msgid "Related Articles"
+msgstr ""
+
+#: inc/blocks/post-detail/featured-image/featured-image.php:13
+#: inc/blocks/post-snippet/featured-image/featured-image.php:13
+msgid "Show/Hide Featured Image"
+msgstr ""
+
+#: inc/blocks/post-detail/featured-image/featured-image.php:32
+#: inc/blocks/post-snippet/featured-image/featured-image.php:32
+msgid "Post Thumbnail Options:"
+msgstr ""
+
+#: inc/blocks/post-detail/featured-image/featured-image.php:39
+#: inc/blocks/post-snippet/featured-image/featured-image.php:39
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/blocks/post-detail/featured-image/featured-image.php:40
+#: inc/blocks/post-snippet/featured-image/featured-image.php:40
+msgid "Medium"
+msgstr ""
+
+#: inc/blocks/post-detail/featured-image/featured-image.php:41
+#: inc/blocks/post-snippet/featured-image/featured-image.php:41
+msgid "Large"
+msgstr ""
+
+#: inc/blocks/post-detail/featured-image/featured-image.php:42
+#: inc/blocks/post-snippet/featured-image/featured-image.php:42
+msgid "Full / Original"
+msgstr ""
+
+#: inc/blocks/post-detail/post-detail.php:7
+msgid "Post Detail"
+msgstr ""
+
+#: inc/blocks/post-detail/related-articles/related-articles.php:12
+msgid "Show/Hide Related Articles"
+msgstr ""
+
+#: inc/blocks/post-detail/related-articles/related-articles.php:31
+msgid "Related Articles Title"
+msgstr ""
+
+#: inc/blocks/post-detail/share/social-share.php:12
+#: inc/blocks/post-snippet/share/social-share.php:12
+msgid "Enable Social Share"
+msgstr ""
+
+#: inc/blocks/post-detail/share/social-share.php:32
+#: inc/blocks/post-snippet/share/social-share.php:32
+msgid "Social Shares"
+msgstr ""
+
+#: inc/blocks/post-detail/share/social-share.php:41
+#: inc/blocks/post-snippet/share/social-share.php:41
+msgid "Email"
+msgstr ""
+
+#: inc/blocks/post-detail/share/social-share.php:53
+#: inc/blocks/post-snippet/share/social-share.php:53
+msgid "Twitter ID:"
+msgstr ""
+
+#: inc/blocks/post-detail/tag/tag.php:12 inc/blocks/post-snippet/tag/tag.php:12
+msgid "Show/Hide Tags"
+msgstr ""
+
+#: inc/blocks/post-snippet/default-post-snippet.php:50
+msgid "Read More"
+msgstr ""
+
+#: inc/blocks/post-snippet/excerpt/excerpt.php:15
+msgid "Excerpt Size"
+msgstr ""
+
+#: inc/blocks/post-snippet/post-snippet.php:7
+msgid "Post Snippet"
+msgstr ""
+
+#: inc/blocks/post-snippet/readmore/readmore.php:12
+msgid "Show/Hide Read More"
+msgstr ""
+
+#: inc/blocks/post-snippet/readmore/readmore.php:33
+msgid "Read More Text"
+msgstr ""
+
+#: inc/blocks/site-identity/site-tagline/site-tagline.php:12
+msgid "Show/Hide Site Tagline"
+msgstr ""
+
+#: inc/blocks/site-identity/site-title/site-title.php:12
+msgid "Show/Hide Site Title"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:79
+msgid "Page"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:84
+msgid "Search results for"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:89
+msgid "Error 404"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:8
+msgid "Getting Started"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:2
+msgid "FAQ's"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:4
+msgid "1. What is the difference between Free and Pro?"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:5
+msgid "Both Free and Premium version of the themes are well-built. If you are looking for more color options, font options, whitelabeling and more, then you can upgrade to premium."
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:6
+msgid "The premium version lets you have better control over the theme as it comes with more customization options."
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:6
+msgid "here"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:8
+msgid "2. What are the advantages of upgrading to the Premium version?"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:9
+msgid "With Premium version, besides the extra features and frequent updates, you get premium support. If you run into any theme issues, you will get a lot quicker response compared to the free support."
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:11
+msgid "3. How do I change the copyright text?"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:12
+msgid "You can change the copyright text going to"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:12
+msgid "Appearance > Customize > Footer Copyright"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:12
+msgid "Upgrade to the"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:12
+msgid "Premium version"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:12
+msgid "to unlock this feature."
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:15
+msgid "For more help, read our documentation"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:16
+msgid "View Documentation"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:22
+msgid "If you like our theme, please leave a review or Contact us for technical support."
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:24
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/getting-started/template-parts/faq.php:24
+#: inc/getting-started/template-parts/main-info.php:12
+msgid "Contact Us"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:2
+msgid "Free v/s Pro"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:4
+msgid "Free"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:4
+msgid "Pro"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:6
+msgid "1000+ Google Fonts"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:7
+msgid "Unlimited Color Option"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:9
+msgid "24/7 Support"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:10
+msgid "Site Logo Management"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:11
+msgid "Site width controller"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:12
+msgid "In-built Social Sharing"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:13
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:14
+msgid "Child Theme Compatible"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:15
+msgid "Floating/Sticky Menu"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:16
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:17
+msgid "Blog Options"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:18
+msgid "Show/Hide Author Info"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:19
+msgid "Scroll to Top button"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:20
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:21
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:22
+msgid "Theme Options"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:23
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:24
+msgid "SEO Optimized"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:25
+msgid "Lightweight"
+msgstr ""
+
+#: inc/getting-started/template-parts/free-vs-pro.php:28
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: inc/getting-started/template-parts/main-info.php:5
+msgid "Glossy Blog, the ultimate destination for bloggers seeking a sleek and polished platform to showcase their content. With its minimalist design, user-friendly interface, and seamless functionality, Glossy Blog is the perfect choice for bloggers of all niches.Whether you're passionate about fashion, food, travel, or lifestyle, Glossy Blog provides a clean and modern canvas to bring your blogging dreams to life. Our platform is designed to be effortlessly customizable, allowing you to tailor your blog to reflect your unique style and vision. From choosing the perfect color palette to selecting fonts that embody your brand, Glossy Blog offers a range of customization options to make your blog truly yours.With its responsive design, Glossy Blog ensures that your content looks stunning across all devices, whether your readers are accessing your blog on a desktop, tablet, or mobile phone. Our dynamic layout adapts seamlessly to different screen sizes, providing an optimal viewing experience for every reader.Glossy Blog simplifies the blogging process, allowing you to focus on what you do best: creating compelling content. Our intuitive editing tools make it a breeze to publish and manage your posts, while our streamlined backend ensures smooth navigation and hassle-free updates.Join our thriving community of bloggers and unleash your creativity on Glossy Blog. Whether you're a seasoned blogger or just starting your digital journey, our platform provides the foundation for you to build a captivating blog that captivates and inspires your audience. Embrace the elegance of Glossy Blog and let your content shine."
+msgstr ""
+
+#: inc/getting-started/template-parts/main-info.php:8
+msgid "⨳ Start Theme Customization"
+msgstr ""
+
+#: inc/getting-started/template-parts/main-info.php:12
+msgid "Need help?"
+msgstr ""
+
+#: inc/getting-started/template-parts/main-info.php:12
+msgid "or email us at: hello@graphthemes.com"
+msgstr ""
+
+#: inc/getting-started/template-parts/main-info.php:16
+msgid "Need more color options, font options, edit footer copyright info?"
+msgstr ""
+
+#: inc/getting-started/template-parts/main-info.php:17
+msgid "View Premium Version"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:24
+msgid "Graphthemes: Author Profile"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:25
+msgid "An Author Profile Widget"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:172
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:211
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:134
+msgid "Title"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:177
+msgid "Author Name"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:182
+msgid "Display photo from:"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:186
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:202
+msgid "Gravatar"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:190
+msgid "Uploaded Photo"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:195
+msgid "Select Image"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:199
+msgid "Author Email"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:202
+msgid "You can show your %1$s image instead of manually uploading your photo. Just add your gravatar registered email address here."
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:205
+msgid "Description"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:211
+msgid "Button Label"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:216
+msgid "Button Link"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:223
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:241
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:156
+msgid "Open in New Tab"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:228
+msgid "Social Profile"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:230
+msgid "Facebook Profile"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:233
+msgid "LinkedIn Profile"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:236
+msgid "Twitter Profile"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-author-profile.php:239
+msgid "Instagram Profile"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:28
+msgid "Graphthemes: Popular Post"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:29
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:65
+msgid "0 View"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:67
+msgid " View"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:69
+msgid " Views"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:83
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:199
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:216
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:139
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:221
+msgid "Popular based on:"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:223
+msgid "Post Views"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:224
+msgid "Comment Count"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:231
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:145
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:236
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:150
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-popular-posts.php:260
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:34
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:125
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:175
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:20
+msgid "Graphthemes: Recent Post"
+msgstr ""
+
+#: inc/graphthemes-widgets/includes/widgets/widget-recent-posts.php:21
+msgid "A Recent Post Widget"
+msgstr ""
+
+#. translators: %s: post date.
+
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: inc/template-tags.php:100 template-parts/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:118
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:88 template-parts/content-single.php:69
+#: template-parts/content.php:85
+msgid "0"
+msgstr ""
+
+#: template-parts/content-search.php:88 template-parts/content-single.php:69
+#: template-parts/content.php:85
+msgid "1"
+msgstr ""
+
+#: template-parts/content-search.php:88 template-parts/content-single.php:69
+#: template-parts/content.php:85
+msgid "%"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Glossy Blog"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://graphthemes.com/glossy-blog"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Glossy Blog, the ultimate destination for bloggers seeking a sleek and polished platform to showcase their content. With its minimalist design, user-friendly interface, and seamless functionality, Glossy Blog is the perfect choice for bloggers of all niches.Whether you're passionate about fashion, food, travel, or lifestyle, Glossy Blog provides a clean and modern canvas to bring your blogging dreams to life. Our platform is designed to be effortlessly customizable, allowing you to tailor your blog to reflect your unique style and vision. From choosing the perfect color palette to selecting fonts that embody your brand, Glossy Blog offers a range of customization options to make your blog truly yours.With its responsive design, Glossy Blog ensures that your content looks stunning across all devices, whether your readers are accessing your blog on a desktop, tablet, or mobile phone. Our dynamic layout adapts seamlessly to different screen sizes, providing an optimal viewing experience for every reader.Glossy Blog simplifies the blogging process, allowing you to focus on what you do best: creating compelling content. Our intuitive editing tools make it a breeze to publish and manage your posts, while our streamlined backend ensures smooth navigation and hassle-free updates.Join our thriving community of bloggers and unleash your creativity on Glossy Blog. Whether you're a seasoned blogger or just starting your digital journey, our platform provides the foundation for you to build a captivating blog that captivates and inspires your audience. Embrace the elegance of Glossy Blog and let your content shine."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "graphthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://graphthemes.com/"
+msgstr ""
