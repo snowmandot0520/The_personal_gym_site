@@ -1,0 +1,189 @@
+/*
+Theme Name: Altr
+Theme URI: https://envothemes.com/altr-free-wp-theme/
+Description: Altr is a fast, clean, lightweight, customizable and modern-looking free responsive WooCommerce WordPress theme for e-commerce stores like clothing, fashion, electronics, ebooks, dress store, sports shop, marketplace, multivendor, equipments or online products. Theme works perfectly with the new block editor (Gutenberg) and popular page builders like Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer etc. Theme is compatible with YITH WooCommerce Wishlist, YITH WooCommerce Compare, WooCommerce Variation Swatches and other popular plugins. The theme is SEO friendly, WPML and RTL ready. Theme demo ready to import: https://envothemes.com/altr/
+Author: EnvoThemes
+Author URI: https://envothemes.com/
+Version: 1.0.1
+Tested up to: 6.2
+Requires PHP: 5.6
+License: GNU General Public License v3.0 or later
+License URI: https://www.gnu.org/licenses/gpl.html
+Tags: one-column, two-columns, full-width-template, right-sidebar, custom-background, custom-menu, custom-header, editor-style, featured-images, translation-ready, custom-logo, threaded-comments, footer-widgets, rtl-language-support, blog, e-commerce
+Text Domain: altr
+Template: entr
+*/
+
+a, a:active, a:hover, a:focus {
+    color: #ff0000;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+    background-color: #ff0000;
+}
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    color: #ff0000;
+}
+.woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt:disabled[disabled], .woocommerce #respond input#submit.alt:disabled[disabled]:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt:disabled[disabled], .woocommerce a.button.alt:disabled[disabled]:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt:disabled[disabled], .woocommerce button.button.alt:disabled[disabled]:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt:disabled[disabled], .woocommerce input.button.alt:disabled[disabled]:hover {
+    background-color: #ff0000;
+}
+.amount-cart {
+    background: #ff0000;
+}
+.amount-cart:before {
+    border-right: 7px solid #ff0000;
+}
+.cart-contents span.count, .woocommerce span.onsale, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+    background-color: #ff0000;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    border-bottom: 3px solid #ff0000;
+}
+.site-header {
+    padding: 15px 0;
+}
+.page-area {
+    padding-top: 35px;
+}
+.content-article, .single-post-content {
+    clear: none;
+    padding: 0 0 25px 0;
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 25px 0px rgba(25,45,110,.20);
+    overflow: hidden;
+}
+#content-footer-section {
+    background-color: #e6e6e6;
+}
+#content-footer-section .widget-title h3 {
+    color: #1a1a1a;
+}
+.woocommerce article.woo-content, .single-page article {
+    padding: 10px 15px 25px 15px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 25px 0px rgba(25,45,110,.20);
+    overflow: hidden;
+}
+.woocommerce article .product {
+    padding: 25px;
+    margin-bottom: 25px;
+}
+.single-head, .article-meta, .post-excerpt, .single-entry-summary, .entry-footer, nav.navigation.post-navigation, .single-footer, a.post-edit-link {
+    padding: 0 25px;
+}
+.news-item h2 a {
+    font-size: 45px;
+    line-height: 49px;
+    font-weight: 900;
+}
+.news-item h2 {
+    margin-top: 15px;
+}
+article .has-post-thumbnail .news-item h2 {
+    margin-top: 0;
+}
+span.comments-meta {
+    float: right;
+}
+#sidebar {
+    box-shadow: 0px 10px 25px 0px rgba(28,45,113,.17);
+    padding: 25px;
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-right: -15px;
+    margin-bottom: 15px;
+}
+.widget-title, h2.wp-block-heading {
+    margin-bottom: 15px;
+}
+.woocommerce span.onsale {
+    top: 0;
+    left: 0;
+}
+.title-header .heading-row {
+    justify-content: center;
+}
+.site-menu {
+    padding: 10px 0;
+    background-color: #fff;
+    border-bottom: 1px solid #f6f6f6;
+    z-index: 98;
+    position: relative;
+    box-shadow: 0px 10px 15px 0px rgba(25,45,120,.20);
+}
+
+.menu-search-widget {
+    max-width: 230px;
+    margin-left: 15px;
+    width: 100%;
+}
+.menu-search-widget .widget_product_search {
+    margin: 0;
+}
+.menu-search-widget input {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    height: 36px;
+    line-height: 22px;
+    font-size: 15px;
+    padding-right: 80px;
+}
+.menu-search-widget button[type="submit"] {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 6px 15px;
+    border-radius: 3px;
+    line-height: 22px;
+    font-size: 11px;
+}
+.header-widget-area {
+    flex: 1;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.site-heading-sidebar .widget {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+@media (max-width: 767px) {
+  .header-widget-area {
+      order: 3;
+      flex: 100%;
+      justify-content: center;
+      text-align: center;
+  }
+  .site-heading-sidebar .widget {
+      float: none;
+  }
+  .top-bar-section .widget {
+      text-align: center !important;
+  }
+  .menu-search-widget {
+    max-width: 100%;
+    margin-right: 15px;
+}
+}
+.top-bar-section {
+    background-color: #f9f9f9;
+    color: #334142;
+    padding: 5px 0;
+    font-size: 14px;
+    border-bottom: 1px solid #f6f6f6;
+    z-index: 98;
+    position: relative;
+}
+.top-bar-section .widget, .top-bar-section p {
+    margin-bottom: 0;
+}
+.top-bar-section .widget:nth-child(3n-1){
+    text-align: center;
+}
+.top-bar-section .widget:nth-child(3n) {
+    text-align: right;
+}

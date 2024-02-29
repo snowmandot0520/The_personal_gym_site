@@ -1,0 +1,33 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Altr\n"
+"POT-Creation-Date: 2023-05-09 17:25+0200\n"
+"PO-Revision-Date: 2017-10-05 20:40+0100\n"
+"Last-Translator: Envothemes <info@envothemes.com>\n"
+"Language-Team: Envothemes <info@envothemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:156
+msgid "Header Section"
+msgstr ""
+
+#: functions.php:166
+msgid "Top bar"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Select"
+#~ msgstr ""
+#~ "Vyberte stránku, která zobrazí podmínky používání pro registraci partnerů"
